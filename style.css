@@ -35,17 +35,18 @@ body {
 .btn {
     border: none;
     font-size: 1rem;
-    width: 90px;
-    height: 25px;
-    margin: 10px;
+    width: 100px;
+    height: 30px;
+    margin: 8px;
+    margin-top: 30px;
     border-radius: 7px;
-    color: #AA076B;
+    color: #3a81b1;
     font-weight: bold;
 }
 .btn:hover {
     cursor: pointer;
-    background-color: rgb(73, 73, 107);
-    color: rgb(154, 178, 197);
+    background-color: rgb(150, 150, 150);
+    color: rgb(255, 255, 255);
     transition: 0.4s;
     border: none;
 }
